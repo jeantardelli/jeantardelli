@@ -2,7 +2,7 @@
 
 I'm a Senior Data Engineer passionate about distributed data systems, automation, and data architecture.
 
-![GitHub Stats](https://github-readme-stats-chi-sand-72.vercel.app/api?username=jeantardelli&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats-chi-sand-72.vercel.app/api?username=jeantardelli&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ### 💬 About Me
 
