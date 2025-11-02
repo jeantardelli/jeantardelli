@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jean Carlo
 
-I'm a Senior Data Engineer passionate about distributed data systems, automation, and data architecture.
+I'm passionate about distributed data systems, automation, and data architecture & management.
 
 ![GitHub Stats](https://github-readme-stats-chi-sand-72.vercel.app/api?username=jeantardelli&show_icons=true&theme=tokyonight&include_all_commits=true)
 
