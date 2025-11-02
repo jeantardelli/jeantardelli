@@ -1,8 +1,24 @@
 # 👋 Hi, I'm Jean Carlo
 
-I'm a Senior Data Engineer passionate about distributed data systems and automation.
+I'm a **Senior Data Engineer** passionate about distributed data systems, automation, and data architecture.
+
+---
+
+### ⚙️ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-chi-sand-72.vercel.app/api?username=jeantardelli&show_icons=true&theme=tokyonight)
+
+---
+
+### 💬 About Me
+
+- 💼 Working with large-scale data pipelines & cloud infrastructure  
+- 🧠 Focused on automation, observability, and reproducible analytics  
+- 🌍 Languages: English, Español (Península), Català, Português  
+
+---
+
+⭐️ From [jeantardelli](https://github.com/jeantardelli)
 
 <!--
 **jeantardelli/jeantardelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
