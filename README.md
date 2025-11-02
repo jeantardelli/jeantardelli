@@ -4,6 +4,8 @@ I'm a Senior Data Engineer passionate about distributed data systems, automation
 
 ![GitHub Stats](https://github-readme-stats-chi-sand-72.vercel.app/api?username=jeantardelli&show_icons=true&theme=tokyonight&include_all_commits=true)
 
+![Top Languages](https://github-readme-stats-chi-sand-72.vercel.app/api/top-langs/?username=jeantardelli&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,jupyter%20notebook)
+
 ### 💬 About Me
 
 - 💼 Working with large-scale data pipelines & cloud infrastructure  
