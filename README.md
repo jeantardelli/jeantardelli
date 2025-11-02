@@ -8,7 +8,7 @@ I'm a Senior Data Engineer passionate about distributed data systems, automation
 
 - 💼 Working with large-scale data pipelines & cloud infrastructure  
 - 🧠 Focused on automation, observability, and reproducible analytics  
-- 🌍 Languages: English, Español (Península), Català, Português  
+- 🌍 Languages: English, Español, Català, Português  
 
 ---
 
