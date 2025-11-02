@@ -2,7 +2,7 @@
 
 I'm a Senior Data Engineer passionate about distributed data systems and automation.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeancarlo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-chi-sand-72.vercel.app/api?username=jeantardelli&show_icons=true&theme=tokyonight)
 
 <!--
 **jeantardelli/jeantardelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
