@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jean Carlo
 
-I'm passionate about distributed data systems, automation, and data architecture & management.
+I’m passionate about building distributed data systems, automation, and modern data architecture.
 
 ![GitHub Stats](https://github-readme-stats-chi-sand-72.vercel.app/api?username=jeantardelli&show_icons=true&theme=tokyonight&include_all_commits=true)
 
